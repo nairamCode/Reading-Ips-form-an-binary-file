@@ -3,3 +3,5 @@ If you got a binary file that contains Ips u can use this. It was coded with the
 
 # Credits
 Big Credits goes to the person who help me allot:
+<br/>
+Efeyzee (Discord)
